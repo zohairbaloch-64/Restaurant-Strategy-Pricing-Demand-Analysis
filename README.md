@@ -135,7 +135,7 @@ An interactive Power BI dashboard was developed to convert analysis into a **dec
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Dashboard Image.png)
+![Dashboard](Dashboard_Image.png)
 
 ---
 
